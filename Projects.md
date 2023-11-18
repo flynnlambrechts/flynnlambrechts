@@ -9,7 +9,8 @@ Notes:
 - 890 Users after a year and a half of starting
 - Still Running but on different code base
 - Postgresql db for users
-- Hosted on heroku
+- Hosted on heroku 
+- 
 
 
 ## Shift Reminder

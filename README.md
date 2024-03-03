@@ -1,4 +1,9 @@
 # Personal Projects
+## cselink
+A command line tool for UNSW CSE Students. This enables local development with ease of access to cse programs like 'autotest' and 'give'. Providing users with access to the comfort of their own programming environment and the ability to work offline and sync later.
+[Repo](https://github.com/flynnlambrechts/cselink)
+
+
 ## BssrBot
 
 [Github](https://github.com/flynnlambrechts/bssrbot3)

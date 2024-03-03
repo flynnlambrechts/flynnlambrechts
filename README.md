@@ -28,7 +28,7 @@ Notes:
 ## Airbrb
 - COMP6080 React Website
 ## Bananagrams Engine [repo](https://github.com/flynnlambrechts/bananagrams_engine_comp3821)
-- COMP3921 Project
+- COMP3821 Project
 
 
 

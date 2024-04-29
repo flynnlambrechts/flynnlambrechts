@@ -1,4 +1,6 @@
-# Personal Projects
+[![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=flynnlambrechts)](https://github.com/anuraghazra/github-readme-stats)
+
+# Some Projects
 ## cselink
 A command line tool for UNSW CSE Students. This enables local development with ease of access to cse programs like 'autotest' and 'give'. Providing users with access to the comfort of their own programming environment and the ability to work offline and sync later.
 

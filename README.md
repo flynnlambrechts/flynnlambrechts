@@ -3,6 +3,7 @@
 </div>
 
 # Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flynnlambrechts&theme=dark&show_icons=true&layout=compact&langs_count=7)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

@@ -3,20 +3,11 @@
   
   <h1>Flynn Lambrechts</h1>
     
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Flynn+Lambrechts+👋;A+Mechatronic+Engineering...;and+Computer+Science+Student)](https://git.io/typing-svg)
-
 </div>
 
 
 
 # Languages
-
-<div align='center'>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flynnlambrechts&theme=dark&show_icons=true&layout=compact&langs_count=10)
-
-</div>
-
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)

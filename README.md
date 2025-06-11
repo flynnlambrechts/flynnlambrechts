@@ -23,9 +23,6 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
-# Projects
-You can find a list of my projects on my [website](https://flynnlambrechts.github.io/)
-
 
  <img src="https://komarev.com/ghpvc/?username=flynnlambrechts&label=Profile%20views&color=0e75b6&style=flat" alt="flynnlambrechts" />
 
